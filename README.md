@@ -1,6 +1,6 @@
 #Lab6
 Library for simple robot movement using the MSP430.
-Example code included in main.c.
+
 
 ##Functions
 - `void initPinOuts()`
