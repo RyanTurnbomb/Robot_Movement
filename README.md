@@ -1,4 +1,4 @@
-#Lab6
+#Robot Movement
 Library for simple robot movement using the MSP430.
 
 
